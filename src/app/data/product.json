@@ -1,0 +1,362 @@
+[
+  {
+    "id": "milk-full-cream-1l",
+    "name": "Full Cream Milk",
+    "category": "dairy",
+    "price": 68,
+    "unit": "1 L",
+    "icon": "🥛",
+    "featured": true
+  },
+  {
+    "id": "milk-toned-500ml",
+    "name": "Toned Milk",
+    "category": "dairy",
+    "price": 28,
+    "unit": "500 ml",
+    "icon": "🥛",
+    "featured": false
+  },
+  {
+    "id": "curd-400g",
+    "name": "Fresh Curd",
+    "category": "dairy",
+    "price": 35,
+    "unit": "400 g",
+    "icon": "🥣",
+    "featured": true
+  },
+  {
+    "id": "paneer-200g",
+    "name": "Paneer",
+    "category": "dairy",
+    "price": 90,
+    "unit": "200 g",
+    "icon": "🧀",
+    "featured": false
+  },
+  {
+    "id": "butter-100g",
+    "name": "Butter",
+    "category": "dairy",
+    "price": 58,
+    "unit": "100 g",
+    "icon": "🧈",
+    "featured": false
+  },
+  {
+    "id": "eggs-6",
+    "name": "Farm Eggs (6 pcs)",
+    "category": "eggs",
+    "price": 48,
+    "unit": "6 pcs",
+    "icon": "🥚",
+    "featured": true
+  },
+  {
+    "id": "eggs-12",
+    "name": "Farm Eggs (12 pcs)",
+    "category": "eggs",
+    "price": 92,
+    "unit": "12 pcs",
+    "icon": "🥚",
+    "featured": false
+  },
+  {
+    "id": "rice-basmati-1kg",
+    "name": "Basmati Rice",
+    "category": "rice",
+    "price": 145,
+    "unit": "1 kg",
+    "icon": "🍚",
+    "featured": true
+  },
+  {
+    "id": "rice-sona-1kg",
+    "name": "Sona Masoori Rice",
+    "category": "rice",
+    "price": 72,
+    "unit": "1 kg",
+    "icon": "🍚",
+    "featured": false
+  },
+  {
+    "id": "rice-poha-500g",
+    "name": "Poha",
+    "category": "rice",
+    "price": 42,
+    "unit": "500 g",
+    "icon": "🥣",
+    "featured": false
+  },
+  {
+    "id": "toor-dal-1kg",
+    "name": "Toor Dal",
+    "category": "pulses",
+    "price": 168,
+    "unit": "1 kg",
+    "icon": "🫘",
+    "featured": true
+  },
+  {
+    "id": "moong-dal-1kg",
+    "name": "Moong Dal",
+    "category": "pulses",
+    "price": 158,
+    "unit": "1 kg",
+    "icon": "🫘",
+    "featured": false
+  },
+  {
+    "id": "chana-dal-1kg",
+    "name": "Chana Dal",
+    "category": "pulses",
+    "price": 118,
+    "unit": "1 kg",
+    "icon": "🫘",
+    "featured": false
+  },
+  {
+    "id": "masoor-dal-1kg",
+    "name": "Masoor Dal",
+    "category": "pulses",
+    "price": 128,
+    "unit": "1 kg",
+    "icon": "🫘",
+    "featured": false
+  },
+  {
+    "id": "rajma-1kg",
+    "name": "Rajma",
+    "category": "pulses",
+    "price": 175,
+    "unit": "1 kg",
+    "icon": "🫘",
+    "featured": false
+  },
+  {
+    "id": "chana-1kg",
+    "name": "Kabuli Chana",
+    "category": "pulses",
+    "price": 132,
+    "unit": "1 kg",
+    "icon": "🫘",
+    "featured": false
+  },
+  {
+    "id": "sugar-1kg",
+    "name": "White Sugar",
+    "category": "sugar",
+    "price": 48,
+    "unit": "1 kg",
+    "icon": "🍬",
+    "featured": true
+  },
+  {
+    "id": "jaggery-500g",
+    "name": "Jaggery",
+    "category": "sugar",
+    "price": 55,
+    "unit": "500 g",
+    "icon": "🟤",
+    "featured": false
+  },
+  {
+    "id": "salt-1kg",
+    "name": "Iodised Salt",
+    "category": "sugar",
+    "price": 22,
+    "unit": "1 kg",
+    "icon": "🧂",
+    "featured": false
+  },
+  {
+    "id": "atta-5kg",
+    "name": "Wheat Atta",
+    "category": "flour",
+    "price": 245,
+    "unit": "5 kg",
+    "icon": "🌾",
+    "featured": true
+  },
+  {
+    "id": "atta-1kg",
+    "name": "Wheat Atta",
+    "category": "flour",
+    "price": 52,
+    "unit": "1 kg",
+    "icon": "🌾",
+    "featured": false
+  },
+  {
+    "id": "maida-1kg",
+    "name": "Maida",
+    "category": "flour",
+    "price": 48,
+    "unit": "1 kg",
+    "icon": "🌾",
+    "featured": false
+  },
+  {
+    "id": "sooji-500g",
+    "name": "Sooji / Rava",
+    "category": "flour",
+    "price": 38,
+    "unit": "500 g",
+    "icon": "🌾",
+    "featured": false
+  },
+  {
+    "id": "besan-500g",
+    "name": "Besan",
+    "category": "flour",
+    "price": 72,
+    "unit": "500 g",
+    "icon": "🌾",
+    "featured": false
+  },
+  {
+    "id": "mustard-oil-1l",
+    "name": "Mustard Oil",
+    "category": "oil",
+    "price": 165,
+    "unit": "1 L",
+    "icon": "🫙",
+    "featured": true
+  },
+  {
+    "id": "sunflower-oil-1l",
+    "name": "Sunflower Oil",
+    "category": "oil",
+    "price": 148,
+    "unit": "1 L",
+    "icon": "🫙",
+    "featured": false
+  },
+  {
+    "id": "ghee-500ml",
+    "name": "Desi Ghee",
+    "category": "oil",
+    "price": 345,
+    "unit": "500 ml",
+    "icon": "🟡",
+    "featured": false
+  },
+  {
+    "id": "turmeric-100g",
+    "name": "Turmeric Powder",
+    "category": "spices",
+    "price": 42,
+    "unit": "100 g",
+    "icon": "🟡",
+    "featured": false
+  },
+  {
+    "id": "red-chilli-100g",
+    "name": "Red Chilli Powder",
+    "category": "spices",
+    "price": 48,
+    "unit": "100 g",
+    "icon": "🌶️",
+    "featured": false
+  },
+  {
+    "id": "coriander-100g",
+    "name": "Coriander Powder",
+    "category": "spices",
+    "price": 38,
+    "unit": "100 g",
+    "icon": "🌿",
+    "featured": false
+  },
+  {
+    "id": "garam-masala-100g",
+    "name": "Garam Masala",
+    "category": "spices",
+    "price": 65,
+    "unit": "100 g",
+    "icon": "✨",
+    "featured": false
+  },
+  {
+    "id": "jeera-100g",
+    "name": "Jeera (Cumin)",
+    "category": "spices",
+    "price": 58,
+    "unit": "100 g",
+    "icon": "🟤",
+    "featured": false
+  },
+  {
+    "id": "haldiram-namkeen-200g",
+    "name": "Namkeen Mix",
+    "category": "snacks",
+    "price": 55,
+    "unit": "200 g",
+    "icon": "🥨",
+    "featured": true
+  },
+  {
+    "id": "chips-50g",
+    "name": "Potato Chips",
+    "category": "snacks",
+    "price": 20,
+    "unit": "50 g",
+    "icon": "🍟",
+    "featured": false
+  },
+  {
+    "id": "biscuits-marie",
+    "name": "Marie Biscuits",
+    "category": "snacks",
+    "price": 30,
+    "unit": "250 g",
+    "icon": "🍪",
+    "featured": false
+  },
+  {
+    "id": "glucose-biscuits",
+    "name": "Glucose Biscuits",
+    "category": "snacks",
+    "price": 25,
+    "unit": "150 g",
+    "icon": "🍪",
+    "featured": false
+  },
+  {
+    "id": "maggi-70g",
+    "name": "Instant Noodles",
+    "category": "snacks",
+    "price": 14,
+    "unit": "70 g",
+    "icon": "🍜",
+    "featured": true
+  },
+  {
+    "id": "tea-250g",
+    "name": "Tea Leaves",
+    "category": "beverages",
+    "price": 125,
+    "unit": "250 g",
+    "icon": "🍵",
+    "featured": false
+  },
+  {
+    "id": "coffee-50g",
+    "name": "Instant Coffee",
+    "category": "beverages",
+    "price": 95,
+    "unit": "50 g",
+    "icon": "☕",
+    "featured": false
+  },
+  {
+    "id": "cola-750ml",
+    "name": "Soft Drink",
+    "category": "beverages",
+    "price": 40,
+    "unit": "750 ml",
+    "icon": "🥤",
+    "featured": false
+  }
+]

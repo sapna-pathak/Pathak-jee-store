@@ -1,8 +1,6 @@
 import { Outfit, Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
-import Header from "@/component/Header";
-import Footer from "@/component/Footer";
-import FloatingWhatsApp from "@/component/FloatingWhatsApp";
+
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -42,10 +40,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${outfit.variable} ${plusJakarta.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col font-sans selection:bg-amber-500 selection:text-white">
-        <Header />
         <main className="flex-grow">{children}</main>
-        <Footer />
-        <FloatingWhatsApp />
       </body>
     </html>
   );

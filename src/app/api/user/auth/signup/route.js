@@ -1,4 +1,4 @@
-import { signup } from "@/controllers/authController.js";
+import { signup } from "@/controllers/auth.controller.js";
 
 export async function POST(request) {
   return signup(request);

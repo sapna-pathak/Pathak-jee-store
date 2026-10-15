@@ -2,7 +2,7 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import { OAuth2Client } from "google-auth-library";
 import mongoose from "mongoose";
-import User from "@/models/User.js";
+import User from "@/models/user.model.js";
 import Wishlist from "@/models/wishlist.model.js";
 import {
   generateOtp,

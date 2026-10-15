@@ -7,6 +7,9 @@ import HeroSlider from "@/component/HeroSlider";
 import PerksMarquee from "@/component/PerksMarquee";
 import CategorySection from "@/component/CategorySection";
 import AboutSection from "@/component/AboutSection";
+import Header from "@/component/Header";
+import Footer from "@/component/Footer";
+import FloatingWhatsApp from "@/component/FloatingWhatsApp";
 import { ArrowRight, CheckCircle2, MessageCircle, Sparkles, TrendingUp } from "lucide-react";
 
 export default function Home() {
@@ -14,6 +17,8 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen">
+    <Header />
+      
       {/* 1. Hero Section with Carousel & Animations */}
       <HeroSlider />
 
@@ -131,6 +136,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <Footer />
+      <FloatingWhatsApp />
     </div>
   );
 }
